@@ -1,7 +1,3 @@
-package main
+package bbolt
 
-import "fmt"
-
-func main() {
-	fmt.Println("Hello, Bounty Hunter!")
-}
+// Package bbolt implements a low-level key/value store in Go.
